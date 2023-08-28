@@ -140,5 +140,26 @@
   </url><url>
     <loc>https://wajihalam.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wajihalam.github.io/courses/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wajihalam.github.io/courses/example/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wajihalam.github.io/courses/intro/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wajihalam.github.io/courses/intro/example1/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wajihalam.github.io/courses/intro/example2/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wajihalam.github.io/courses/tutorial/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wajihalam.github.io/courses/tutorial/intro/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

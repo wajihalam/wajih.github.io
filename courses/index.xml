@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wajih</title>
+    <link>https://wajihalam.github.io/courses/</link>
+      <atom:link href="https://wajihalam.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wajih</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://wajihalam.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Wajih</title>
+      <link>https://wajihalam.github.io/courses/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://wajihalam.github.io/courses/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wajihalam.github.io/courses/example/</guid>
+      <description>&lt;h1 id=&#34;page-title&#34;&gt;Page title&lt;/h1&gt;
+&lt;p&gt;title: An Example Course&lt;/p&gt;
+&lt;h1 id=&#34;title-for-the-menu-link-if-you-wish-to-use-a-shorter-link-title-otherwise-remove-this-option&#34;&gt;Title for the menu link if you wish to use a shorter link title, otherwise remove this option.&lt;/h1&gt;
+&lt;p&gt;linktitle: Course&lt;/p&gt;
+&lt;h1 id=&#34;page-summary-for-search-engines&#34;&gt;Page summary for search engines.&lt;/h1&gt;
+&lt;p&gt;summary: Blah, blah, blah&amp;hellip;&lt;/p&gt;
+&lt;h1 id=&#34;date-page-published&#34;&gt;Date page published&lt;/h1&gt;
+&lt;p&gt;date: 2018-09-09&lt;/p&gt;
+&lt;h1 id=&#34;book-page-type-do-not-modify&#34;&gt;Book page type (do not modify).&lt;/h1&gt;
+&lt;p&gt;type: book&lt;/p&gt;
+&lt;h1 id=&#34;position-of-this-page-in-the-menu-remove-this-option-to-sort-alphabetically&#34;&gt;Position of this page in the menu. Remove this option to sort alphabetically.&lt;/h1&gt;
+&lt;p&gt;weight: 1&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
