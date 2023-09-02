@@ -265,7 +265,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-275463981&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-597648312&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -275,7 +275,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-275463981&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-597648312&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -557,9 +557,9 @@ Crash --&gt; [*]
     
     <item>
       <title>An Chapter 1 - IoT-Based Intelligent Capsule Endoscopy System - A Technical Review</title>
-      <link>https://wajihalam.github.io/publication/preprint/</link>
+      <link>https://wajihalam.github.io/publication/book-chapter/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://wajihalam.github.io/publication/preprint/</guid>
+      <guid>https://wajihalam.github.io/publication/book-chapter/</guid>
       <description></description>
     </item>
     
@@ -773,9 +773,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Reliability Analysis of Io VT Based Intelligent Video Surveillance System</title>
-      <link>https://wajihalam.github.io/publication/conference-paper/</link>
+      <link>https://wajihalam.github.io/publication/a1_conference-mmsp_ieee/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://wajihalam.github.io/publication/conference-paper/</guid>
+      <guid>https://wajihalam.github.io/publication/a1_conference-mmsp_ieee/</guid>
       <description></description>
     </item>
     
@@ -833,6 +833,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Optimum Arrangement and Combination of Receive only and Transmit Only Coils for Imaging at 7 Tesla</title>
+      <link>https://wajihalam.github.io/publication/a2_conference-ksmrm/</link>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://wajihalam.github.io/publication/a2_conference-ksmrm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Heartbeat and Temperature Measuring System for Remote Health Monitoring using Wireless Body Area Network</title>
       <link>https://wajihalam.github.io/publication/10_journal_ijbsbt/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -845,6 +853,62 @@ $$&lt;/p&gt;
       <link>https://wajihalam.github.io/publication/5_journal_transaction_kiees/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://wajihalam.github.io/publication/5_journal_transaction_kiees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A STUDY ON AN ENERGY SAVING METHOD OF BOOM CYLINDER IN ELECTRO-HYDRAULIC EXCAVATOR</title>
+      <link>https://wajihalam.github.io/publication/a6_conference-icmere2015-deb/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://wajihalam.github.io/publication/a6_conference-icmere2015-deb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AN APPLICATION OF NEURO - FUZZY ADAPTIVE PID CONTROLLER A DIRECT DIVE VOLUME CONTROL HYDRAULIC PRESS</title>
+      <link>https://wajihalam.github.io/publication/a4_conference-icmere_deb/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://wajihalam.github.io/publication/a4_conference-icmere_deb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EFFECTIVE ARRANGEMENT OF OPTIMUM NUMBER OF TEM COILS FOR THE IMPROVEMENT OF B1 FIELD HOMOGENEITY AROUND THE HEAD OF HUMAN PHANTOM AT 7 TESLA</title>
+      <link>https://wajihalam.github.io/publication/a5_conference-icmere2015/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://wajihalam.github.io/publication/a5_conference-icmere2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MODELING AND CONTROLLING OF AN ELECTRO-HYDRAULIC ACTUATOR NOVEL BY USING INDEPENDENT METERING VALVE</title>
+      <link>https://wajihalam.github.io/publication/a7_conference-icmere2015-deb/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://wajihalam.github.io/publication/a7_conference-icmere2015-deb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimum number of receive only surface coil optimized for Imaging Brain at 7T</title>
+      <link>https://wajihalam.github.io/publication/a3_conference-kiees/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://wajihalam.github.io/publication/a3_conference-kiees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A wireless heartbeat and Temperature Monitoring System for Remote Patients</title>
+      <link>https://wajihalam.github.io/publication/a8_conference-icmere-choton/</link>
+      <pubDate>Sat, 29 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://wajihalam.github.io/publication/a8_conference-icmere-choton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability Analysis of Io VT Based Intelligent Video Surveillance System</title>
+      <link>https://wajihalam.github.io/publication/a9_conference-icmere2013-sami/</link>
+      <pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://wajihalam.github.io/publication/a9_conference-icmere2013-sami/</guid>
       <description></description>
     </item>
     
